@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-xxxxxxxxxx
-=======
-bbbbbbbbbbaaaaaaaaaa
->>>>>>> 7eb7303 (blunch1 update)
+aaaaaaaa
+yyyyyyyy
